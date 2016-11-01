@@ -15,9 +15,9 @@ When i loaded x_txt files we have 561 variables after extracting only the means 
 
 ## Activities
 The activities where the y_txt files,they had only 1-6  values so i created the ydata variable that has the activities as characters.
-`WALKING (value 1): subject was walking during the test
-`WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
-`WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
-`SITTING (value 4): subject was sitting during the test
-`STANDING (value 5): subject was standing during the test
-`LAYING (value 6): subject was laying down during the test`
+*`WALKING (value 1): subject was walking during the test
+*`WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
+*`WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
+*`SITTING (value 4): subject was sitting during the test
+*`STANDING (value 5): subject was standing during the test
+*`LAYING (value 6): subject was laying down during the test`
